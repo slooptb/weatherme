@@ -3,19 +3,16 @@
 
 ### Description
 an app generating activities base on weather condition.
-___
 
 ### Goal/User Stories
 to build an app that 
 - detects *current location*
 - uses simpleweather api to get *weather condition* of *current location*
 - *generate activities* we can do base off of *weather condition*
-___
 
 ### APIs we'll use
 - SimpleWeather API
 - Trip Advisor
-___
 
 ### Stack
 - Vanilla HTML/CSS/JS (feel free to list any frameworks you guys want to use)
