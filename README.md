@@ -1,5 +1,5 @@
 # weatherme
------
+___
 
 ### Description
 an app generating activities base on weather condition.
@@ -12,6 +12,7 @@ to build an app that
 
 ### APIs we'll use
 - SimpleWeather API
+- GoogleMaps API
 - Trip Advisor
 
 ### Stack
